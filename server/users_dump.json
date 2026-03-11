@@ -1,0 +1,124 @@
+[
+  {
+    "_id": "69ae79bf080a14cd36107168",
+    "name": "gokul",
+    "rollNo": "222211155",
+    "mobile": "9898986565",
+    "email": "",
+    "username": "",
+    "role": "student",
+    "__v": 0
+  },
+  {
+    "_id": "69ae7ab1080a14cd36107176",
+    "name": "Test",
+    "rollNo": "S1",
+    "mobile": "9999999999",
+    "email": "",
+    "username": "",
+    "role": "student",
+    "__v": 0
+  },
+  {
+    "_id": "69ae7c3a39b4fd56374ce028",
+    "name": "Admin Test",
+    "rollNo": "",
+    "mobile": "1234567890",
+    "email": "admin@test.com",
+    "username": "admin",
+    "password": "$2b$10$hI/aOln7zuuwHnQiYftoTeiZeRcFR6ZK3bXhW2kyvxO67x71hHaCW",
+    "role": "admin",
+    "__v": 0
+  },
+  {
+    "_id": "69ae7d0039b4fd56374ce048",
+    "name": "rugu",
+    "rollNo": "222211140",
+    "mobile": "8989898989",
+    "email": "",
+    "username": "",
+    "role": "student",
+    "__v": 0
+  },
+  {
+    "_id": "69aeb10402d433365193cc26",
+    "name": "Test Customer",
+    "mobile": "1111111111",
+    "password": "$2b$10$gyz.NfPCoF7hEw4.y6T8BOqZClduUXPxKhy4WMdITQnlVZnvNc6g.",
+    "role": "customer",
+    "__v": 0
+  },
+  {
+    "_id": "69aecea251ca9aa6e38e7fb9",
+    "name": "Test Student",
+    "rollNo": "S124",
+    "mobile": "1234567891",
+    "role": "student",
+    "__v": 0
+  },
+  {
+    "_id": "69aecef351ca9aa6e38e7fbc",
+    "name": "tiger",
+    "rollNo": "",
+    "mobile": "7894498785",
+    "email": "boys07707@gmail.com",
+    "username": "tiger",
+    "password": "$2b$10$y5AZLgXd7ly4Q0g69L2pZOskV.iDKN5YNUWcSuriIDUXWDax9teT.",
+    "role": "admin",
+    "__v": 0
+  },
+  {
+    "_id": "69aed0fa077da0c453e8d8bb",
+    "name": "nishanth gt",
+    "rollNo": "222211178",
+    "mobile": "9874554987",
+    "email": "",
+    "username": "",
+    "role": "student",
+    "__v": 0
+  },
+  {
+    "_id": "69aed3136d7ffd206dc29beb",
+    "name": "mohan",
+    "rollNo": "",
+    "mobile": "8807251651",
+    "email": "",
+    "username": "",
+    "password": "$2b$10$DyAxi/xSBc85zOOuMVvPSOTE2Rf1eFahBguokDD2xKzPrN2uerbEm",
+    "role": "customer",
+    "__v": 0
+  },
+  {
+    "_id": "69aedd195de4d0741a644813",
+    "name": "nishanth",
+    "rollNo": "",
+    "mobile": "98745665498",
+    "email": "boys07797@gmail.com",
+    "username": "nishi",
+    "password": "$2b$10$FOfM1DqMFsWn25066K6a8eOCu9C3tlUKhnL9F6zIkkXLtTK.vgGTi",
+    "role": "admin",
+    "__v": 0
+  },
+  {
+    "_id": "69aedf5e5de4d0741a64488e",
+    "name": "kumar",
+    "rollNo": "",
+    "mobile": "8528528525",
+    "email": "",
+    "username": "",
+    "password": "$2b$10$bealBy739GEXG7a19DKCEOoljZMAgVmBgJ9ZZV8JFa/d5FbuUrIo6",
+    "role": "customer",
+    "__v": 0
+  },
+  {
+    "_id": "69b0124cba9aa2f423e437a2",
+    "name": "nishii",
+    "rollNo": "",
+    "mobile": "7894561233",
+    "email": "boys07797@gmail.com",
+    "username": "nisha",
+    "password": "$2b$10$F.2LooNjE6P5L.1nb3LaZeW5Eii2yG59.I44egx/wPrGcBMfZuunq",
+    "role": "admin",
+    "__v": 0
+  }
+]
